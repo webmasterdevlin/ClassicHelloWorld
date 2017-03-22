@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:HelloWorldXamarinForms"
              x:Class="HelloWorldXamarinForms.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+	<Label Text="Hello World!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
