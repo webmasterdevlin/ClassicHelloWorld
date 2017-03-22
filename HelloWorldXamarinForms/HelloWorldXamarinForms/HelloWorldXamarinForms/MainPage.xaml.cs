@@ -13,5 +13,10 @@ namespace HelloWorldXamarinForms
         {
             InitializeComponent();
         }
+
+        private void Btn_TryExit_Onclicked(object sender, EventArgs e)
+        {
+            IdNameOfTheLabelElement.Text = "Good Bye Xamarin";
+        }
     }
 }
