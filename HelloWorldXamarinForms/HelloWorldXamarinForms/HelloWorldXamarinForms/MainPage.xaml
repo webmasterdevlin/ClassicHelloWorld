@@ -9,7 +9,7 @@
 
         <Label x:Name="IdNameOfTheLabelElement"
                HorizontalOptions="Center"
-               Text="Hello Xamarin"
+               Text="Hello Xamarin Forms"
                FontSize="26"
                TextColor="White" />
 
